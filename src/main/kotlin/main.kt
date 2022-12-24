@@ -1,5 +1,4 @@
-import collection.list.StackImpl
-import collection.list.stackOf
+import data.list.stackOf
 
 fun main(args: Array<String>) {
     val stack = stackOf("A", "B", "C", "D")

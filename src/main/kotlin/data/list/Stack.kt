@@ -1,4 +1,4 @@
-package collection.list
+package data.list
 
 interface Stack<E> {
 

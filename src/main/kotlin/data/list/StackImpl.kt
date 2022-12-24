@@ -1,4 +1,4 @@
-package collection.list
+package data.list
 
 class StackImpl<E>() : Stack<E> {
 
